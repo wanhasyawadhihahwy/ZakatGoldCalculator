@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.ZakatGoldCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="colorOnPrimary">@color/light_text</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/light_background</item>
+        <item name="android:textColor">@color/light_text</item>
+
+        <!-- Toolbar / Surface -->
+        <item name="colorSurface">@color/light_primary</item>
+        <item name="colorOnSurface">@color/light_text</item>
+
+        <!-- Dark mode handled automatically with values-night/colors.xml -->
+    </style>
+
+    <!-- App Theme -->
+    <style name="Theme.ZakatGoldCalculator" parent="Base.Theme.ZakatGoldCalculator" />
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZakatGoldCalculator</string>
+    <string name="copyright">Copyright &#169; Hasya 2025</string>
+    <string name = "name_text">Wan Hasya Wadhihah Binti Wan Yusoff</string>
+    <string name = "student_text">2023226158</string>
+    <string name = "group_text">RCDCS2405B</string>
+    <string name = "course_text">CDCS240</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light colors (Soft Blue Theme) -->
+    <color name="light_primaryDark">#6CA0DC</color>     <!-- Slightly darker soft blue -->
+    <color name="light_primary">#A8D0E6</color>         <!-- Main light blue -->
+    <color name="light_text">#0B1D33</color>           <!-- Dark text for contrast -->
+    <color name="light_background">#E0F0FF</color>     <!-- Very soft blue background -->
+
+    <!-- Dark colors (Soft Blue Theme) -->
+    <color name="dark_primaryDark">#4A7EBB</color>     <!-- Darker blue for toolbar etc -->
+    <color name="dark_primary">#74C0E3</color>         <!-- Main blue for dark mode -->
+    <color name="dark_text">#FFFFFF</color>            <!-- White text for dark mode -->
+    <color name="dark_background">#3C3C50</color>     <!-- Dark blue background -->
+
+
+
+</resources>
