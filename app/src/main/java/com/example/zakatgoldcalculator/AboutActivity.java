@@ -45,7 +45,7 @@ public class AboutActivity extends AppCompatActivity {
         tvGithub.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String url = "https://github.com/yourusername/yourproject"; // replace with your GitHub link
+                String url = "https://github.com/wanhasyawadhihahwy/ZakatGoldCalculator"; // replace with your GitHub link
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
                 startActivity(intent);
             }
