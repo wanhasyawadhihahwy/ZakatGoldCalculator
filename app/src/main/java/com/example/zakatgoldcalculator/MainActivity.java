@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
         } else if (id == R.id.menuShare) {
             Intent shareIntent = new Intent(Intent.ACTION_SEND);
             shareIntent.setType("text/plain");
-            shareIntent.putExtra(Intent.EXTRA_TEXT, "Please use my application - https://t.co/app");
+            shareIntent.putExtra(Intent.EXTRA_TEXT, "Please use my application -https://github.com/wanhasyawadhihahwy/ZakatGoldCalculator");
             startActivity(Intent.createChooser(shareIntent, null));
             return true;
         }
